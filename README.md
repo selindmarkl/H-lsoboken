@@ -1,5 +1,7 @@
 H-lsoboken
 ==========
 
-Källkod som hanteras i Coda2
-Jag fattar inte
+Källkod för wordpress site och ev phonegap kod
+
+## Wordpress
+Custom code in  custom_functions.php file for problem with product page
